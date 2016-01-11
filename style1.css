@@ -1,0 +1,21 @@
+
+body{
+  background-color: white;
+}
+h1{
+  color: salmon;
+  text-align: center
+}
+
+a{
+  background-color: salmon;
+  padding: 10px;
+  margin-left: 20px;
+  border: 2px solid black;
+}
+.getit{
+  background-color: white;
+  padding: 0px;
+  margin-left: 0px;
+  border: 0px solid white;
+}

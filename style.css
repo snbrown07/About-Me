@@ -1,0 +1,31 @@
+body{
+  background-color: salmon;
+  color: black;
+  text-align: center;
+}
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+h1{
+  color: salmon;
+  text-align: center
+}
+img{
+  float: left;
+}
+a{
+  background-color: salmon;
+  padding: 10px;
+  margin-left: 20px;
+  border: 2px solid black;
+}
+.getit{
+  background-color: white;
+  padding: 0px;
+  margin-left: 0px;
+  border: 0px solid white;
+}

@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  color: black;
+}
+#Brown{
+  border: 2px solid black;
+  text-align: center;
+  color: salmon;
+  font-size: 45px;
+}
+.shuwana{
+  color: Black;
+  font-family: Eccentric Std;
+  font-size: 35px;
+}
+img{
+  float: left;
+}
